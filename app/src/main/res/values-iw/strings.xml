@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">פתקים</string>
+    <string name="enter_your_note">כתוב פתק</string>
+    <string name="enter_note_title">הזן כותרת לפתק</string>
+    <string name="enter_note_content">הזן תוכן לפתק</string>
+    <string name="pick_image">בחר תמונה</string>
+    <string name="finish">סיים</string>
+    <string name="find_location">מצא מיקום</string>
+    <string name="title">כותרת</string>
+    <string name="content">תוכן</string>
+    <string name="edit_image">ערוך תמונה</string>
+    <string name="save">שמור</string>
+    <string name="confirm_delete">אשר מחיקה</string>
+    <string name="are_you_sure_you_want_to_delete_this_note">האם אתה בטוח שברצונך למחוק הערה זו?</string>
+    <string name="are_you_sure_you_want_to_delete_all_notes">האם אתה בטוח שברצונך למחוק את כל ההערות?</string>
+    <string name="notes_deleted">הפתקים נמחקו</string>
+    <string name="note_deleted_success">הפתק נמחקה בהצלחה</string>
+    <string name="you_are_here">אתה כאן</string>
+    <string name="please_wait_getting_location">אנא המתן, מקבל מיקום…</string>
+    <string name="location_permission_is_required_to_show_your_position_on_the_map">נדרשת הרשאת מיקום כדי להציג את המיקום שלך במפה</string>
+    <string name="no">לא</string>
+    <string name="yes">כן</string>
+    <string name="remove_all_notes">מחק את כל הפתקים</string>
+    <string name="edit">ערוך</string>
+</resources>

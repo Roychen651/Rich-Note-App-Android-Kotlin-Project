@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982246320643",
+    "project_id": "com-example-richnoteapp",
+    "storage_bucket": "com-example-richnoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982246320643:android:3ef7865d85b2355bd57c36",
+        "android_client_info": {
+          "package_name": "com.example.richnoteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeNoaaZuyLfrv7Pgwoquc_HL2Dc2rGdGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
