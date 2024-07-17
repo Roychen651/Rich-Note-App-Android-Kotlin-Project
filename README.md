@@ -60,7 +60,7 @@ Run the App: Deploy the app to an emulator or a physical device.
 
 🎓 Conclusions
 
-This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.
+This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.<br/>
 📱 Screenshots :
 
 <div style="display: flex; flex-wrap: wrap;">
