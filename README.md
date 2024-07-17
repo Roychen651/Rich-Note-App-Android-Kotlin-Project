@@ -45,7 +45,7 @@ Welcome to Rich Note App! This project is designed to provide a comprehensive no
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/rich-note-app.git
+   git clone https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project.git
 
 
 Open in Android Studio: Import the project into Android Studio.
@@ -63,9 +63,19 @@ Run the App: Deploy the app to an emulator or a physical device.
 This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.
 📱 Screenshots :
 
-<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094135.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094211.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094222.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094237.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094245.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094257.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094350.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094405.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094515.png
+"/> 
+
+
+
 
 📄 License
 
