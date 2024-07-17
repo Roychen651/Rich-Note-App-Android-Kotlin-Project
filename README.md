@@ -58,10 +58,10 @@ Run the App: Deploy the app to an emulator or a physical device.
     Advanced Android Components: Utilized LiveData, ViewModel, and Coroutines for a robust and efficient architecture.
     Map Integration: Incorporated OSMDroid for displaying and interacting with maps.
 
-🎓 Conclusions
+## 🎓 Conclusions
 
 This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.<br/>
-📱 Screenshots :
+## 📱 Screenshots :
 
 <div style="display: flex; flex-wrap: wrap;">
     <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094135.png"/> 
