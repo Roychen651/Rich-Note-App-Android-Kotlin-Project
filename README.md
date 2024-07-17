@@ -61,12 +61,11 @@ Run the App: Deploy the app to an emulator or a physical device.
 🎓 Conclusions
 
 This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.
-📱 Screenshots
-Main Screen
+📱 Screenshots :
 
-Note Details
-
-Map Integration
+<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
+<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
 
 📄 License
 
