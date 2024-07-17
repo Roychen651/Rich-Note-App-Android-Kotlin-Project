@@ -63,18 +63,17 @@ Run the App: Deploy the app to an emulator or a physical device.
 This project provided invaluable experience in advanced Android development, and modern app architecture. It enhanced our skills in asynchronous programming, UI/UX design, and real-time data handling.
 📱 Screenshots :
 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094135.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094211.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094222.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094237.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094245.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094257.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094350.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094405.png"/> 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094515.png
-"/> 
-
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094135.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094211.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094222.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094237.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094245.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094257.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094350.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094405.png"/> 
+    <img width="350px" height="400px" src="https://github.com/Roychen651/Rich-Note-App-Android-Kotlin-Project/blob/master/images/Screenshot_20240717_094515.png"/>
+</div>
 
 
 📄 License
